@@ -4,7 +4,7 @@
 
 ## Project 1 - ETL script for weather data
 
-This project is a a bash script that performs an ETL (Exctract, Transform, Load) process on weather data
+This project is a a bash script that performs an ETL (Exctract, Transform, Load) process on weather data.
 
 ## Projecct 2 - Backup Script
 
