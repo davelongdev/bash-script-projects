@@ -22,9 +22,9 @@ Objective - a daily log in tabular form of the observed temperature and the fore
 
 ## Files
 
-weather.sh - the main script that generates a record of relevant data (one line of data)
-weather.log - the log file that contains the data for each day
-weather_report - a file that contains the daily weather report
+- weather.sh - the main script that generates a record of relevant data (one line of data)
+- weather.log - the log file that contains the data for each day
+- weather_report - a file that contains the daily weather report
 
 ## variables
 - current_temp - the current temp
