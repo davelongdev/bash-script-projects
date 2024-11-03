@@ -27,5 +27,5 @@ weather.log - the log file that contains the data for each day
 weather_report - a file that contains the daily weather report
 
 ## variables
-current_temp - the current temp
-fc_temp - the temp forcasted for the following day
+- current_temp - the current temp
+- fc_temp - the temp forcasted for the following day
